@@ -267,7 +267,7 @@ git push origin feature-name
 ### Gurumurthy Dupana
 
 - GitHub: https://github.com/gurumurthydupana
-- Email: guruspams0@gmail.com
+- Email: gurumurthydupana836@gmail.com
 
 ---
 
